@@ -335,17 +335,6 @@ machine learning, NLP and analytics.
 
 </div>
 
----
-
-# 📈 GitHub Analytics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Prajwal201204&show_icons=true&hide_border=true&rank_icon=github" width="48%"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prajwal201204&layout=compact&hide_border=true" width="48%"/>
-
-</div>
 
 ---
 
@@ -357,25 +346,7 @@ machine learning, NLP and analytics.
 
 </div>
 
----
 
-# 📊 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Prajwal201204&hide_border=true&area=true" width="95%"/>
-
-</div>
-
----
-
-# 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Prajwal201204/Prajwal201204/output/github-contribution-grid-snake.svg" width="95%"/>
-
-</div>
 
 ---
 
