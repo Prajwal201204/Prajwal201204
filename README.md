@@ -163,6 +163,10 @@ subscription data and recurring revenue analysis.
 * Revenue analysis
 * Dashboard visualization
 
+  <a href="https://github.com/Prajwal201204/Customer-Retention-Revenue-Analysis">
+<img src="https://img.shields.io/badge/🔗%20View%20Repository-181717?style=for-the-badge&logo=github"/>
+</a>
+
 ---
 
 ## 💼 Employee Management System
